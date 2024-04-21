@@ -4,7 +4,7 @@ A cutting-edge resume builder that helps job seekers create a professional, ATS-
 
 ## Demo
 
-#### [ats-resume-one.vercel.app](ats-resume-one.vercel.app/)
+#### [ats-resume-one.vercel.app](https://ats-resume-one.vercel.app/)
 ![image](https://user-images.githubusercontent.com/61316762/218017511-fbbaa7da-6154-449f-9e46-8de45b0e6c29.png)
 
 ### Resume Score
